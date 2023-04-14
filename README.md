@@ -1,9 +1,7 @@
 <h1 align="center">🍒 Jung Hoe Lee 🍒</h1>
-<br/>
-- 💻 FrontEnd Developer.
-- 🌱 I am currently growing up.
 
-<br/>
+- 💻 Front-end Developer.
+- 🌱 I am currently growing up.
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=junghoe&theme=synthwave&show_icons=true" style="height:180px" align="center"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghoe&layout=compact" align="center" style="height:180px" >
